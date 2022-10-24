@@ -1,2 +1,2 @@
-# qcolors
+# quantum-styles
 Quantum color themes
