@@ -1,2 +1,2 @@
-# quantum-mpl-styles
+# quantum-styles
 Quantum color themes
