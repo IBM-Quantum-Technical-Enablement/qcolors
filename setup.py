@@ -41,7 +41,7 @@ def install_styles():
         os.makedirs(mpl_stylelib_dir)
 
     parent_dir = os.path.dirname(__file__)
-    styles_dir = os.path.join(parent_dir, "mpl_styles")
+    styles_dir = os.path.join(parent_dir, "styles/mpl_styles")
 
     for item in os.listdir(styles_dir):
         item_path = os.path.join(styles_dir, item)
@@ -54,7 +54,7 @@ def install_styles():
     if not os.path.exists(qiskit_dir):
         os.makedirs(qiskit_dir)
 
-    qiskit_styles_dir = os.path.join(parent_dir, "qiskit_styles")
+    qiskit_styles_dir = os.path.join(parent_dir, "styles/qiskit_styles")
     for item in os.listdir(qiskit_styles_dir):
         item_path = os.path.join(qiskit_styles_dir, item)
         if os.path.isfile(item_path):
