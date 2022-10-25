@@ -22,7 +22,7 @@ from setuptools.command.develop import develop
 from setuptools.command.install import install
 
 MAJOR = 0
-MINOR = 3
+MINOR = 4
 MICRO = 0
 
 VERSION = '%d.%d.%d' % (MAJOR, MINOR, MICRO)
