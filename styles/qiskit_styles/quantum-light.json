@@ -86,6 +86,10 @@
             "#EE7733",
             "#FFFFFF"
         ],
+        "ecr": [
+            "#EE7733",
+            "#FFFFFF"
+        ],
         "ccx": [
             "#EE7733",
             "#FFFFFF"
@@ -187,6 +191,10 @@
             "#FFFFFF"
         ],
         "reset": [
+            "#000000",
+            "#FFFFFF"
+        ],
+        "delay": [
             "#000000",
             "#FFFFFF"
         ],

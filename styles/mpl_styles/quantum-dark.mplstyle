@@ -46,7 +46,6 @@ figure.subplot.right: 0.95
 figure.subplot.bottom: 0.07
 figure.facecolor: 161616
 figure.figsize: 8, 6
-figure.dpi: 300 
 
 ### Boxplots
 boxplot.boxprops.color: white
