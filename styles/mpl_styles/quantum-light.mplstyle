@@ -11,10 +11,10 @@ font.sans-serif:  Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans
 text.color: black
 
 axes.prop_cycle: cycler('color', ['0075C3', 'ee7733', '6929c4', '009988', 'cc3311', '33bbee', 'ee3377'])
-axes.facecolor: f2f0ed
+axes.facecolor: f5f2f0
 axes.axisbelow: true
 axes.grid: true
-axes.edgecolor: f2f0ed
+axes.edgecolor: f5f2f0
 axes.linewidth: 3.0
 axes.titlesize: 18
 axes.labelsize : 16
@@ -43,7 +43,7 @@ ytick.color: black
 figure.subplot.left: 0.08
 figure.subplot.right: 0.95
 figure.subplot.bottom: 0.07
-figure.facecolor: f2f0ed
+figure.facecolor: f5f2f0
 figure.figsize: 8, 6
 
 ### Boxplots
